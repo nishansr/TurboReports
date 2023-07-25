@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:newsapp/utils/text.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -10,7 +11,11 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Colors.black,
-        title: Text("TurboReporters"),
+        title: CustomText(
+          text: "TurboReporters",
+          size: 20,
+          color: Colors.white,
+        ),
       ),
     );
   }
