@@ -25,7 +25,7 @@ class _SearchState extends State<Search> {
             padding: EdgeInsets.only(left: 20.0),
             decoration: BoxDecoration(
                 color: AppColors.darkgrey,
-                borderRadius: BorderRadius.circular(50)),
+                borderRadius: BorderRadius.circular(15)),
             child: Center(
                 child: Row(
               mainAxisAlignment: MainAxisAlignment.start,
