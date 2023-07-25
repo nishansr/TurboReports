@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Colors.black,
-        title: CustomText(
+        title: BoldText(
           text: "TurboReporters",
           size: 20,
           color: Colors.white,
