@@ -48,12 +48,11 @@ Below are the information about packages used in this project.
 | [google_fonts](https://pub.dev/packages/google_fonts) |
 | [cached_network_image](https://pub.dev/packages/cached_network_image) |
 | [url_launcher](https://pub.dev/packages/url_launcher)       |
+| [http](https://pub.dev/packages/http)       |
 <!-- | [flutter_svg](https://pub.dev/packages/flutter_svg)         |
 | [get](https://pub.dev/packages/get)                         |
 | [getwidget](https://pub.dev/packages/getwidget)             |
-| [http](https://pub.dev/packages/http)                       |
-| [intl](https://pub.dev/packages/intl)                       |
-| [url_launcher](https://pub.dev/packages/url_launcher)       | -->
+| [intl](https://pub.dev/packages/intl)                       | -->
 
 ### API Used
 
